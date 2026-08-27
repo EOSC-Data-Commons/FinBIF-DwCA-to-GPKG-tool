@@ -1,7 +1,7 @@
 # DwCA to GeoPackage Converter
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EOSC-Data-Commons/DwCA_to_GPKG/HEAD)
-[![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/EOSC-Data-Commons/DwCA_to_GPKG/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EOSC-Data-Commons/FinBIF-DwCA-to-GPKG-tool/HEAD)
+[![Replay](https://img.shields.io/badge/launch-EGI%20Replay-F5A252.svg)](https://replay.notebooks.egi.eu/v2/gh/EOSC-Data-Commons/FinBIF-DwCA-to-GPKG-tool/HEAD)
 
 A Python script that converts Darwin Core Archive (DwCA) biodiversity data to GeoPackage format for use in GIS applications.
 
